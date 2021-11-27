@@ -1,8 +1,7 @@
 
-pysnmp==4.4.6
-pycryptodome
-pytest==4.4.0
-pytest-forked
-
-git+git://github.com/xtian9/xtian9-test-bed
+Import CSV
+Import logging
+Print ("this is Christian Trevor")
 print ("hello everyone My name is Trevor and I want to ffffffffff you")
+git+git://github.com/xtian9/xtian9-test-bed
+
